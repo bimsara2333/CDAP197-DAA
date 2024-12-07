@@ -9,6 +9,7 @@ Problem Statement
 
 Road safety is a significant concern in Sri Lanka, with high rates of accidents and fatalities. The main contributing factors include reckless driving, inadequate road sign detection, poor lane discipline, and lack of driver education. Additional challenges arise due to limited technological integration in existing driving systems, including insufficient driver monitoring and the absence of comprehensive driver assistance mechanisms.
 
+
 Key issues include:
 
 Reckless Driver Behavior: Lack of proper driver education and awareness leads to unsafe driving practices.
