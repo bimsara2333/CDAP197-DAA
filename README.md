@@ -1,16 +1,23 @@
-# CDAP197-DAA
+#  RoadBuddy - Machine Learning based driver assistant system to reduce road accidents 
 
-Driver Assistant System - README
+
+**Our Team:**  
+
+Somarathne R.M.B.C    - IT21210938  
+Wijerathne G.A.R      - IT21349638  
+Nayanathara R.M.C     - IT21365300  
+Neelawala P.K.N.G.K.B - IT21231728
+
 
 ![systemmmmm](https://github.com/user-attachments/assets/0dff5eea-5632-4a93-b0df-73a585031358)
 
 
-Problem Statement
+**Problem Statement**
 
 Road safety is a significant concern in Sri Lanka, with high rates of accidents and fatalities. The main contributing factors include reckless driving, inadequate road sign detection, poor lane discipline, and lack of driver education. Additional challenges arise due to limited technological integration in existing driving systems, including insufficient driver monitoring and the absence of comprehensive driver assistance mechanisms.
 
 
-Key issues include:
+**Key issues include:**
 
 Reckless Driver Behavior: Lack of proper driver education and awareness leads to unsafe driving practices.
 
@@ -21,7 +28,7 @@ Inadequate Road Sign Awareness: Drivers struggle to recognize and interpret road
 Blind Spots: Limited awareness of objects or obstacles in vehicle blind spots increases the risk of accidents.
 
 
-Solutions for Each Component
+**Solutions for Each Component**
 
 1. Driver Identification and Vision Monitoring
 
@@ -59,7 +66,7 @@ Solution: Real-time blind spot monitoring and distance measurement alert drivers
 Technology: MobileNet and YOLOv11 for object detection, TensorFlow for distance measurement, and React Native for driver alerts.
 
 
-System Architecture Overview
+**System Architecture Overview**
 
 Frontend: Developed using React Native for an intuitive user interface.
 
@@ -70,7 +77,7 @@ Machine Learning Framework: TensorFlow is used for training and deploying models
 Training Environment: Google Colab provides scalable resources for training deep learning models.
 
 
-Algorithms Used
+**Algorithms Used**
 
 Convolutional Neural Networks (CNN): Applied for analyzing images, such as road signs and driver faces.
 
@@ -80,8 +87,14 @@ MobileNet & MobileNetV2: Optimized for lightweight object detection tasks, such 
 
 YOLOv11: Real-time detection of road signs and blind spot objects with high accuracy.
 
+**Dependencies Used**
 
-Expected Benefits
+tensorflow
+keras
+scikit-learn
+matplotlib and seaborn
+
+**Expected Benefits**
 
 Reduced Accidents: Advanced assistance features promote responsible driving and reduce risks.
 
