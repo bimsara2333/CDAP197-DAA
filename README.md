@@ -19,6 +19,7 @@ Inadequate Road Sign Awareness: Drivers struggle to recognize and interpret road
 
 Blind Spots: Limited awareness of objects or obstacles in vehicle blind spots increases the risk of accidents.
 
+
 Solutions for Each Component
 
 1. Driver Identification and Vision Monitoring
@@ -29,6 +30,7 @@ Solution: This system uses advanced biometric authentication to identify authori
 
 Technology: React Native for interface, Python for backend, TensorFlow for behavior analysis, and Inception V3 for face recognition.
 
+
 2. Parking Spot Detection
 
 Problem: Difficulty in finding parking spots and aligning vehicles properly.
@@ -36,6 +38,7 @@ Problem: Difficulty in finding parking spots and aligning vehicles properly.
 Solution: A parking assistance feature identifies available spots and ensures proper parking alignment. This system integrates data analytics to guide drivers to the nearest parking spot and detect alignment issues.
 
 Technology: MobileNetV2 algorithm for object detection and parking line identification.
+
 
 3. Enhanced Road Sign Detection
 
@@ -45,6 +48,7 @@ Solution: Real-time road sign detection and interpretation provide warnings and 
 
 Technology: YOLOv11 for road sign recognition, TensorFlow for AI modeling, and Google Colab for training datasets.
 
+
 4. Blind Spot Detection
 
 Problem: Unawareness of objects or vehicles in blind spots results in accidents.
@@ -52,6 +56,7 @@ Problem: Unawareness of objects or vehicles in blind spots results in accidents.
 Solution: Real-time blind spot monitoring and distance measurement alert drivers to objects, long vehicles, or pedestrians in blind spots. It also assists in overtaking maneuvers, ensuring safety.
 
 Technology: MobileNet and YOLOv11 for object detection, TensorFlow for distance measurement, and React Native for driver alerts.
+
 
 System Architecture Overview
 
@@ -63,6 +68,7 @@ Machine Learning Framework: TensorFlow is used for training and deploying models
 
 Training Environment: Google Colab provides scalable resources for training deep learning models.
 
+
 Algorithms Used
 
 Convolutional Neural Networks (CNN): Applied for analyzing images, such as road signs and driver faces.
@@ -72,6 +78,7 @@ Inception V3: Used for advanced face recognition in driver identification.
 MobileNet & MobileNetV2: Optimized for lightweight object detection tasks, such as parking alignment and blind spot monitoring.
 
 YOLOv11: Real-time detection of road signs and blind spot objects with high accuracy.
+
 
 Expected Benefits
 
