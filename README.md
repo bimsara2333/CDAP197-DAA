@@ -40,7 +40,7 @@ Road safety is a significant concern in Sri Lanka, with high rates of accidents 
 
 ## Solutions By Component
 
-### 1. **Driver Identification and Vision Monitoring**
+### 1. **Driver Identification and Driver Monitoring**
 
 - **Problem:** Unauthorized access to vehicles and reckless driving behavior contribute to unsafe conditions.
 - **Solution:** This system uses advanced biometric authentication to identify authorized drivers. Facial recognition and driver behavior monitoring detect and alert reckless behavior, ensuring safer driving practices. Security alerts notify vehicle owners of unauthorized access.
