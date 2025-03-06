@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973931285259",
+    "project_id": "driver-assistant-app-2025",
+    "storage_bucket": "driver-assistant-app-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973931285259:android:3f0f32966c029309a8b00e",
+        "android_client_info": {
+          "package_name": "com.sliit.driver_assistant_app_2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkgRZGU1vMj44IcqS3P-W4B5LeNFoAko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

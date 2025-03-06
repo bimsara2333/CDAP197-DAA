@@ -1,0 +1,127 @@
+only windows 10/11 64 bit 
+
+<--------------------------python--------------------------------------->
+
+python 3.10.5
+download link
+https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe
+
+note -  installation need click add path checkbox very important
+
+<--------------------------check version--------------------->
+
+python --version
+
+
+******************************************************************************************************************************
+
+<--------------------------flutter (Only Flutter Applications)-------------------------->
+
+Flutter 3.27.2
+download link
+https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.27.2-stable.zip
+(Dart 3.6.1)
+
+run "flutter doctor" and fix all issues
+
+<-------------check version-------->
+
+flutter --version
+
+
+
+******************************************************************************************************************************
+
+<--------------------------Android Studio (Only Flutter or Android apllications)--------------------------------------->
+
+Android Studio Ladybug Feature Drop | 2024.2.2
+download link
+https://r2---sn-npoldn7d.gvt1.com/edgedl/android/studio/install/2024.2.2.13/android-studio-2024.2.2.13-windows.exe?met=1737409812,&mh=1M&pl=53&rms=onc,onc&shardbypass=sd&redirect_counter=1&rm=sn-nau-jhc67l&rrc=40&req_id=aafa209bd05e8346&cms_redirect=yes&mip=2402:d000:a400:696f:20d9:f027:c152:d356&mm=42&mn=sn-npoldn7d&ms=onc&mt=1737409404&mv=u&mvi=2&rmhost=r1---sn-npoldn7d.gvt1.com&smhost=r4---sn-npoeenlk.gvt1.com
+
+
+******************************************************************************************************************************
+<-------------------------------node (React or Angular or react native or node backend, web and mobile applications)------------------------------->
+
+node version 20.11.1
+download link
+https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi
+
+<--------------------------check version---------------------------------->
+
+node --version
+
+
+******************************************************************************************************************************
+
+<-------------------react native expo for mobile app systems only (Only React Native Mobile Applications)------------------->
+
+open cmd(Command prompt)
+
+npm i expo-cli
+npm i nodemon -g
+
+* note - after install node js *
+
+Mobile phone app install
+
+Expo Go 
+https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US
+
+
+
+
+******************************************************************************************************************************
+
+<--------------------------MySQL DB(Your DB Only Mysql)-------------------------->
+
+Xampp Or Wamp Server
+
+Xampp
+https://webwerks.dl.sourceforge.net/project/xampp/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
+
+
+
+
+
+******************************************************************************************************************************
+<--------------------------mongodb for mern application only-------------------------->
+
+mongodb-compass
+
+https://downloads.mongodb.com/compass/mongodb-compass-1.42.2-win32-x64.exe
+
+mongodb
+
+https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-7.0.6-signed.msi
+
+
+
+
+******************************************************************************************************************************
+<-------------------------- vs code --------------------------> (any type of project)
+
+download link
+https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeUserSetup-x64-1.81.1.exe
+
+
+<------------- GitHub desktop ------------->(any type of project)
+
+download link
+https://desktop.githubusercontent.com/releases/3.4.5-0b64c23c/GitHubDesktopSetup-x64.exe
+
+github desktop full guid video link
+https://youtu.be/o3q0hS01FGk
+
+
+<------------- remote applications ------------->(any type of project)
+
+anydesk
+download link
+https://download.anydesk.com/AnyDesk.exe
+
+or
+
+teamviewer
+download link
+https://dl.teamviewer.com/download/version_15x/TeamViewer_Setup_x64.exe
+
