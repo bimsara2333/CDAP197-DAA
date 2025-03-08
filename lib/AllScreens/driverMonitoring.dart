@@ -67,7 +67,7 @@ class _driverMonitoring extends State<driverMonitoring> {
               SizedBox(height: 50),
               Center(
                 child: Container(
-                  width: 300,
+                  width: 400,
                   height: 300,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(8.0),
