@@ -17,7 +17,7 @@ class roadSign extends StatefulWidget {
   @override
   _roadSign createState() => _roadSign();
 }
-hbwhiekr
+
 class _roadSign extends State<roadSign> {
   bool start = false;
   String localIp = "http://192.168.83.122:5555/", img_url = "", res_text = "";
